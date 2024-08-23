@@ -1,0 +1,18 @@
+/* src/components/Hero.css */
+
+.hero-section {
+    background-image: url('../img/background.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+  }
+  
+  .hero-section .container {
+    max-width: 600px; 
+  }
+  
+  h1, p {
+    margin-left: 0;
+  }
+  
