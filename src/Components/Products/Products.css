@@ -1,0 +1,8 @@
+.proimg{
+    height: 250px;
+    overflow: hidden;
+    object-fit: fill;
+}
+*{
+    background-color: black;
+}
